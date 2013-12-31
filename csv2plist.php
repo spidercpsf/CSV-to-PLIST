@@ -4,7 +4,7 @@
     header("Content-Disposition: attachment; filename=CSV2PLIST.plist");
     header("Content-Type: text/xml;");
 
-	$FILENAME = "Your File path here";
+	$FILENAME = "japanese_map.csv";
 	
 	$row = 1;
 	$headers = array();
