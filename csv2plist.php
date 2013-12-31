@@ -1,36 +1,57 @@
 <?php
+	$filename = "japanese_map.csv";
+	
+	
+	ini_set('auto_detect_line_endings', true);
+        $hasTitleRow = true;
+        if (!file_exists($filename)) {
+            return 0;
+        }
 
-    header("Content-Description: CSV to PLIST");
-    header("Content-Disposition: attachment; filename=CSV2PLIST.plist");
-    header("Content-Type: text/xml;");
+        $pos = strrpos($filename, '.');
+        if ($pos == FALSE) {
+            $filename_out = $filename . '.plist';
+        }
+        else
+            $filename_out = substr($filename, 0, $pos) . '.plist';
 
-	$FILENAME = "japanese_map.csv";
-	
-	$row = 1;
-	$headers = array();
-	echo '<?xml version="1.0" encoding="UTF-8"?>';
-	echo '<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">';
-	echo '<plist version="1.0">';
-	echo '<array>';
-	if (($handle = fopen($FILENAME, "r")) !== FALSE) {
-	    while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
-	    	if(count($headers)==0){
-	    		$headers = $data;	
-	    		continue;
-	    	}
-	
-	        $num = count($data);
-	
-	        $row++;
-	        echo "<dict>";
-	        for ($c=0; $c < $num; $c++) {
-				echo "<key>".$headers[$c]."</key>";
-				echo "<string>".$data[$c]."</string>";
-	        }
-	        echo "</dict>";
-	    }
-	    fclose($handle);
-	}
-	echo '</array>';
-	echo '</plist>'
+        $fp_in = fopen($filename, "r");
+        $fp_out = fopen($filename_out, "w");
+
+        // get title
+        if ($hasTitleRow) {
+            $data = fgetcsv($fp_in, 50000, ",");
+            $num = count($data);
+            $keys = array();
+            for ($i = 0; $i < $num; $i++) {
+                $keys[$i] = $data[$i];
+            }
+        }
+        // generate plist
+        fwrite($fp_out, "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n");
+        fwrite($fp_out, "<!DOCTYPE plist PUBLIC \"-//Apple//DTD PLIST 1.0//EN\" \"http://www.apple.com/DTDs/PropertyList-1.0.dtd\">\n");
+        fwrite($fp_out, "<plist version=\"1.0\">\n");
+        fwrite($fp_out, "<array>\n");
+
+        while ($data = fgetcsv($fp_in, 50000, ",")) {
+            $num = count($data);
+            fwrite($fp_out, "\t<dict>\n");
+            for ($i = 0; $i < $num; $i++) {
+                if ($hasTitleRow) {
+                    fwrite($fp_out, "\t\t<key>$keys[$i]</key>\n");
+                } else {
+                    fwrite($fp_out, "\t\t<key>key$i</key>\n");
+                }
+                fwrite($fp_out, "\t\t<string>" . $data[$i] . "</string>\n");
+            }
+            fwrite($fp_out, "\t</dict>\n");
+        }
+        fclose($fp_in);
+
+        fwrite($fp_out, "</array>\n");
+        fwrite($fp_out, "</plist>\n");
+
+        fclose($fp_out);
+
+        return $filename_out;
 ?>
