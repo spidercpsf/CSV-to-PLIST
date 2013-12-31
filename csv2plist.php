@@ -1,5 +1,6 @@
 <?php
-	putenv("LANG=jp_JP.UTF-8");
+
+	putenv("LANG=ja_JP.UTF-8");
 	$filename = "japanese_map.csv";
 	
 	
