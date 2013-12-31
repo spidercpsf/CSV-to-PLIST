@@ -6,65 +6,65 @@
 		<key>string_id</key>
 		<string>japanese_30</string>
 		<key>string_value</key>
-		<string>茨城</string>
+		<string></string>
 		<key>note</key>
-		<string>マップ名</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_31</string>
 		<key>string_value</key>
-		<string>愛知</string>
+		<string></string>
 		<key>note</key>
-		<string>マップ名</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_32</string>
 		<key>string_value</key>
-		<string>大阪</string>
+		<string></string>
 		<key>note</key>
-		<string>マップ名</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_33</string>
 		<key>string_value</key>
-		<string>福岡</string>
+		<string></string>
 		<key>note</key>
-		<string>マップ名</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_34</string>
 		<key>string_value</key>
-		<string>神奈川</string>
+		<string></string>
 		<key>note</key>
-		<string>マップ名</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_68</string>
 		<key>string_value</key>
-		<string>スタミナMAX値　80</string>
+		<string>MAX値　80</string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_69</string>
 		<key>string_value</key>
-		<string>スタミナMAX値　120</string>
+		<string>MAX値　120</string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_70</string>
 		<key>string_value</key>
-		<string>スタミナMAX値　160</string>
+		<string>MAX値　160</string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -72,7 +72,7 @@
 		<key>string_value</key>
 		<string>1000ガチC</string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -80,7 +80,7 @@
 		<key>string_value</key>
 		<string>3000ガチC</string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -88,7 +88,7 @@
 		<key>string_value</key>
 		<string>10.000ガチC</string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -96,7 +96,7 @@
 		<key>string_value</key>
 		<string>30.000ガチC</string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -104,7 +104,7 @@
 		<key>string_value</key>
 		<string>100.000ガチC</string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -112,7 +112,7 @@
 		<key>string_value</key>
 		<string>1000ガチC</string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -120,7 +120,7 @@
 		<key>string_value</key>
 		<string>3000ガチC</string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -128,7 +128,7 @@
 		<key>string_value</key>
 		<string>10.000ガチC</string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -136,7 +136,7 @@
 		<key>string_value</key>
 		<string>30.000ガチC</string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -144,61 +144,61 @@
 		<key>string_value</key>
 		<string>100.000ガチC</string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_first_map_scene</string>
 		<key>string_value</key>
-		<string>俺はお前の分身だ！　夜露死苦な！\n喧嘩上等だ！　暴れまくってくれ！\n最初のマップは茨城だな！</string>
+		<string>\n喧嘩上等だ！　暴れまくってくれ！\n最初のマップは茨城だな！</string>
 		<key>note</key>
-		<string>初MAP画面遷移時</string>
+		<string>MAP画面遷移時</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_first_stage_scene</string>
 		<key>string_value</key>
-		<string>茨城のステージ１は死喪妻だ！\n〈シモツマ〉と読むんだ、スゲーだろ！\nステージは１２まであるぞ！</string>
+		<string>\n〈シモツマ〉と読むんだ、スゲーだろ！\nステージは１２まであるぞ！</string>
 		<key>note</key>
-		<string>初ステージ選択画面遷移時</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_first_selecting_item_scene_1</string>
 		<key>string_value</key>
-		<string>ここでお守りを装備できるぞ！\nアイコンをタップすると装備される\nもう一回タップで装備を外すぞ</string>
+		<string>\nアイコンをタップすると装備される\nもう一回タップで装備を外すぞ</string>
 		<key>note</key>
-		<string>初アイテム装備画面遷移時</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_first_selecting_item_scene_2</string>
 		<key>string_value</key>
-		<string>お守りはドロップアイテムの有効時間を\n延長してくれるから喧嘩に有利だな！\nお守り〈極悪非道〉をくれてやる！</string>
+		<string>\n延長してくれるから喧嘩に有利だな！\nお守り〈極悪非道〉をくれてやる！</string>
 		<key>note</key>
-		<string>初アイテム装備画面遷移時</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_enter_stage</string>
 		<key>string_value</key>
-		<string>いよいよ喧嘩開始だ！　攻めまくれ！\n向こうにある敵アジトをぶっ潰すんだ\n俺のＨＰがなくなったら負けだぞ！</string>
+		<string>\n向こうにある敵アジトをぶっ潰すんだ\n俺のＨＰがなくなったら負けだぞ！</string>
 		<key>note</key>
-		<string>ステージEnterしたとき</string>
+		<string>Enterしたとき</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_yp1-1</string>
 		<key>string_value</key>
-		<string>さぁメンバーを呼び出して\n敵ヤンキーどもをぶちのめすんだ！\n今はパンチの奴だけ呼べるぞ！</string>
+		<string>\n敵ヤンキーどもをぶちのめすんだ！\n今はパンチの奴だけ呼べるぞ！</string>
 		<key>note</key>
-		<string>ユニット生産チュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_yp1-2</string>
 		<key>string_value</key>
-		<string>メンバーの呼び出しには時間がかかる\nスグ来るやつは重宝するな！\nピンクに光ると呼び出しＯＫだ！</string>
+		<string>\nスグ来るやつは重宝するな！\nピンクに光ると呼び出しＯＫだ！</string>
 		<key>note</key>
 		<string></string>
 	</dict>
@@ -206,295 +206,295 @@
 		<key>string_id</key>
 		<string>japanese_tutorial_yp2_1</string>
 		<key>string_value</key>
-		<string>経験値が貯まって２人目を呼べるぞ！\n呼び出しボタンの脇に数字があるな？\nメンバー呼び出しに必要なスタミナだ！</string>
+		<string>\n呼び出しボタンの脇に数字があるな？\nメンバー呼び出しに必要なスタミナだ！</string>
 		<key>note</key>
-		<string>ユニット生産チュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_yp2_2</string>
 		<key>string_value</key>
-		<string>スタミナの総量はここに書いてあるぞ！\n強いメンバーほどスタミナが必要だな！</string>
+		<string>\n強いメンバーほどスタミナが必要だな！</string>
 		<key>note</key>
-		<string>ユニット生産チュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_bike</string>
 		<key>string_value</key>
-		<string>敵を倒せば単車ブッ込みゲージが貯まる\nゲージはステージを持ち越せるんだ\nさぁ単車ブッ込み攻撃で一網打尽だぁ</string>
+		<string>\nゲージはステージを持ち越せるんだ\nさぁ単車ブッ込み攻撃で一網打尽だぁ</string>
 		<key>note</key>
-		<string>バイクぶっ込みチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_boss</string>
 		<key>string_value</key>
-		<string>メンバーが決まった数だけ倒されると\n俺がブッ込んでやる！</string>
+		<string>\n俺がブッ込んでやる！</string>
 		<key>note</key>
-		<string>ボスぶっ込みチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_item_di_01_1</string>
 		<key>string_value</key>
-		<string>倒した敵がアイテム落としたぞ！\n紫の玉は爆速玉だな！\nこいつはメンバー呼び出しが倍速になる！</string>
+		<string>\n紫の玉は爆速玉だな！\nこいつはメンバー呼び出しが倍速になる！</string>
 		<key>note</key>
-		<string>ドロップアイテム爆速玉のチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_item_di_01_2</string>
 		<key>string_value</key>
-		<string>アイテムをタップすると有効になるぞ\n有効中は次のアイテムは使えないんだ！\nお守りで有効時間を伸ばせるぞ！</string>
+		<string>\n有効中は次のアイテムは使えないんだ！\nお守りで有効時間を伸ばせるぞ！</string>
 		<key>note</key>
-		<string>ドロップアイテム爆速玉のチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_item_di_02_1</string>
 		<key>string_value</key>
-		<string>倒した敵がアイテム落としたぞ！\n赤い玉は凶撃玉だな！\nこいつは攻撃力が倍になるんだ！\n</string>
+		<string>\n赤い玉は凶撃玉だな！\nこいつは攻撃力が倍になるんだ！\n</string>
 		<key>note</key>
-		<string>ドロップアイテム凶撃玉のチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_item_di_02_2</string>
 		<key>string_value</key>
-		<string>アイテムをタップすると有効になるぞ\n有効中は次のアイテムは使えないんだ！\nお守りで有効時間を伸ばせるぞ！</string>
+		<string>\n有効中は次のアイテムは使えないんだ！\nお守りで有効時間を伸ばせるぞ！</string>
 		<key>note</key>
-		<string>ドロップアイテム凶撃玉のチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_item_di_03_1</string>
 		<key>string_value</key>
-		<string>倒した敵がアイテム落としたぞ！\n青い玉は狂防玉だな！\nこいつは防御力が倍になるんだ！\n</string>
+		<string>\n青い玉は狂防玉だな！\nこいつは防御力が倍になるんだ！\n</string>
 		<key>note</key>
-		<string>ドロップアイテム狂防玉のチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_item_di_03_2</string>
 		<key>string_value</key>
-		<string>アイテムをタップすると有効になるぞ\n有効中は次のアイテムは使えないんだ！\nお守りで有効時間を伸ばせるぞ！</string>
+		<string>\n有効中は次のアイテムは使えないんだ！\nお守りで有効時間を伸ばせるぞ！</string>
 		<key>note</key>
-		<string>ドロップアイテム狂防玉のチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_item_di_04_1</string>
 		<key>string_value</key>
-		<string>倒した敵がアイテム落としたぞ！\n赤と紫２色玉は撃速玉だな！\n攻撃力倍でさらに呼び出し倍速だ！</string>
+		<string>\n赤と紫２色玉は撃速玉だな！\n攻撃力倍でさらに呼び出し倍速だ！</string>
 		<key>note</key>
-		<string>ドロップアイテム撃速玉のチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_item_di_04_2</string>
 		<key>string_value</key>
-		<string>アイテムをタップすると有効になるぞ\n有効中は次のアイテムは使えないんだ！\nお守りで有効時間を伸ばせるぞ！</string>
+		<string>\n有効中は次のアイテムは使えないんだ！\nお守りで有効時間を伸ばせるぞ！</string>
 		<key>note</key>
-		<string>ドロップアイテム撃速玉のチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_item_di_05_1</string>
 		<key>string_value</key>
-		<string>倒した敵がアイテム落としたぞ！\n青と紫２色玉は防速玉だな！\n防御力倍でさらに呼び出し倍速だ！</string>
+		<string>\n青と紫２色玉は防速玉だな！\n防御力倍でさらに呼び出し倍速だ！</string>
 		<key>note</key>
-		<string>ドロップアイテム防速玉のチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_item_di_05_2</string>
 		<key>string_value</key>
-		<string>アイテムをタップすると有効になるぞ\n有効中は次のアイテムは使えないんだ！\nお守りで有効時間を伸ばせるぞ！</string>
+		<string>\n有効中は次のアイテムは使えないんだ！\nお守りで有効時間を伸ばせるぞ！</string>
 		<key>note</key>
-		<string>ドロップアイテム防速玉のチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_item_di_06_1</string>
 		<key>string_value</key>
-		<string>倒した敵がアイテム落としたぞ！\n赤と青２色玉は撃防玉だな！\n攻撃力も防御力も倍になるぞ！</string>
+		<string>\n赤と青２色玉は撃防玉だな！\n攻撃力も防御力も倍になるぞ！</string>
 		<key>note</key>
-		<string>ドロップアイテム撃防玉のチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_item_di_06_2</string>
 		<key>string_value</key>
-		<string>アイテムをタップすると有効になるぞ\n有効中は次のアイテムは使えないんだ！\nお守りで有効時間を伸ばせるぞ！</string>
+		<string>\n有効中は次のアイテムは使えないんだ！\nお守りで有効時間を伸ばせるぞ！</string>
 		<key>note</key>
-		<string>ドロップアイテム撃防玉のチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_conbini_page1_1</string>
 		<key>string_value</key>
-		<string>ラーメンが体力回復アイテムだ\n腹が減って喧嘩できねぇなんて\n涙出るくらい情けねぇぜ！</string>
+		<string>\n腹が減って喧嘩できねぇなんて\n涙出るくらい情けねぇぜ！</string>
 		<key>note</key>
-		<string>コンビニページ1チュートリアルの内容</string>
+		<string>1チュートリアルの内容</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_conbini_page1_2</string>
 		<key>string_value</key>
-		<string>左端に見えてるラーメン缶は\nダチからもらう回復アイテムだ\n相手が贈ってから２４時間有効だぞ！</string>
+		<string>\nダチからもらう回復アイテムだ\n相手が贈ってから２４時間有効だぞ！</string>
 		<key>note</key>
-		<string>コンビニページ1チュートリアルの内容</string>
+		<string>1チュートリアルの内容</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_conbini_page2</string>
 		<key>string_value</key>
-		<string>お守りはここで手に入れられるぞ！\nドロップアイテムの有効時間を伸ばせるぞ\nお守りは友達招待でももらえるからな！</string>
+		<string>\nドロップアイテムの有効時間を伸ばせるぞ\nお守りは友達招待でももらえるからな！</string>
 		<key>note</key>
-		<string>コンビニページ2チュートリアルの内容</string>
+		<string>2チュートリアルの内容</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_ajito_1</string>
 		<key>string_value</key>
-		<string>ここがステイタス画面だな！\n単虎やフェイスブックとの連携ができるぞ\n招待ボタンからＳＮＳ拡散もできるぞ</string>
+		<string>\n単虎やフェイスブックとの連携ができるぞ\n招待ボタンからＳＮＳ拡散もできるぞ</string>
 		<key>note</key>
-		<string>アジトページチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_ajito_2</string>
 		<key>string_value</key>
-		<string>単虎と連携すると\n単虎のダチをガチトラのダチにできる！\nダチには回復アイテムを贈れるぞ！</string>
+		<string>\n単虎のダチをガチトラのダチにできる！\nダチには回復アイテムを贈れるぞ！</string>
 		<key>note</key>
-		<string>アジトページチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_ajito_3</string>
 		<key>string_value</key>
-		<string>お前のＩＤで登録したユーザーがいると\nその人数に応じて豪華プレゼントだ！\n詳しくは招待アイコンで確認してくれ！</string>
+		<string>\nその人数に応じて豪華プレゼントだ！\n詳しくは招待アイコンで確認してくれ！</string>
 		<key>note</key>
-		<string>アジトページチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_upgrade_1</string>
 		<key>string_value</key>
-		<string>スタミナをアップグレードできるぞ！\nスタミナの上限が増えると\n強いメンバーを呼び出しやすくなるな！</string>
+		<string>\nスタミナの上限が増えると\n強いメンバーを呼び出しやすくなるな！</string>
 		<key>note</key>
-		<string>アップグレードページチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_upgrade_2</string>
 		<key>string_value</key>
-		<string>ここで出撃メンバーを選ぶんだ\nメンバーを出撃リストにドラッグしてくれ\n戻すときは逆にリストの方へドラッグだな</string>
+		<string>\nメンバーを出撃リストにドラッグしてくれ\n戻すときは逆にリストの方へドラッグだな</string>
 		<key>note</key>
-		<string>アップグレードページチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_upgrade_3</string>
 		<key>string_value</key>
-		<string>メンバーもアップグレードで強くなる！\n最大で形態５まで強くなるんだ！\nアイコンタップでメンバー情報を確認だ</string>
+		<string>\n最大で形態５まで強くなるんだ！\nアイコンタップでメンバー情報を確認だ</string>
 		<key>note</key>
-		<string>アップグレードページチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_game_result</string>
 		<key>string_value</key>
-		<string>バトルに勝利して経験値を獲得しました。\n経験値によって味方ヤンキーがどんどん解放されていきます。\n\n１回ステージに入ると体力を３消費します。\n体力回復はラーメンで行いますが、友だちに回復依頼もできます。\n\n『単車の虎』、フェイスブックと連携すると、友だちを増やせます。\n連携は〈ステイタス画面〉でおこなえます。</string>
+		<string>\n経験値によって味方ヤンキーがどんどん解放されていきます。\n\n１回ステージに入ると体力を３消費します。\n体力回復はラーメンで行いますが、友だちに回復依頼もできます。\n\n『単車の虎』、フェイスブックと連携すると、友だちを増やせます。\n連携は〈ステイタス画面〉でおこなえます。</string>
 		<key>note</key>
-		<string>ゲームリザルトページチュートリアルの内容</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_map_stage_1</string>
 		<key>string_value</key>
-		<string>体力はここで確認するんだ！\nラーメン缶をタップすると\nダチにラーメン缶をリクエストできるぞ！</string>
+		<string>\nラーメン缶をタップすると\nダチにラーメン缶をリクエストできるぞ！</string>
 		<key>note</key>
-		<string>チュートリアル後、初めてＭＡＰ画面、ステージ選択画面を表示した時</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_map_stage_2</string>
 		<key>string_value</key>
-		<string>ラーメン缶をダチにプレゼントできるぞ\nリクエストもプレゼントも１日１０回だ！\nラーメン缶は毎日１０個無料で手に入るぞ</string>
+		<string>\nリクエストもプレゼントも１日１０回だ！\nラーメン缶は毎日１０個無料で手に入るぞ</string>
 		<key>note</key>
-		<string>チュートリアル後、初めてＭＡＰ画面、ステージ選択画面を表示した時</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_friend_list_1</string>
 		<key>string_value</key>
-		<string>ここはダチリストだな！\n『単車の虎』とフェイスブックのダチが\nリストに表示されるぞ！</string>
+		<string>\n『単車の虎』とフェイスブックのダチが\nリストに表示されるぞ！</string>
 		<key>note</key>
-		<string>はじめてダチリスト画面に遷移した時</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_friend_list_2</string>
 		<key>string_value</key>
-		<string>〈プレゼント〉と〈リクエスト〉は\nここでダチを選ぶことでできるぞ！\nどっちも１日１０人までだからな！</string>
+		<string>\nここでダチを選ぶことでできるぞ！\nどっちも１日１０人までだからな！</string>
 		<key>note</key>
-		<string>はじめてダチリスト画面に遷移した時</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_empty_ap_1</string>
 		<key>string_value</key>
-		<string>おい！　とうとう腹ペコみたいだな！\n体力不足だ！　ラーメン持ってるだろ？\nもう一暴れできるぜ！</string>
+		<string>\n体力不足だ！　ラーメン持ってるだろ？\nもう一暴れできるぜ！</string>
 		<key>note</key>
-		<string>初めてAPがなくなった時</string>
+		<string>APがなくなった時</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_empty_ap_2</string>
 		<key>string_value</key>
-		<string>ラーメン食うと体力フル回復だ\n体力はじっとしていると回復するぞ\nダチにラーメン缶のリクエストもできるぜ</string>
+		<string>\n体力はじっとしていると回復するぞ\nダチにラーメン缶のリクエストもできるぜ</string>
 		<key>note</key>
-		<string>初めてAPがなくなった時</string>
+		<string>APがなくなった時</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_vibrate_attack</string>
 		<key>string_value</key>
-		<string>おっと！ 特殊攻撃かましたな！\n今のは「ガクブル攻撃」だ！\n特殊攻撃は味方も敵も出すぞ！</string>
+		<string>\n今のは「ガクブル攻撃」だ！\n特殊攻撃は味方も敵も出すぞ！</string>
 		<key>note</key>
-		<string>初めてvibrate_attack</string>
+		<string>vibrate_attack</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_flash_attack</string>
 		<key>string_value</key>
-		<string>おっと！ 特殊攻撃かましたな！\n今のは「ビビらせ攻撃」だ！\n特殊攻撃は味方も敵も出すぞ！</string>
+		<string>\n今のは「ビビらせ攻撃」だ！\n特殊攻撃は味方も敵も出すぞ！</string>
 		<key>note</key>
-		<string>初めてflash_attack</string>
+		<string>flash_attack</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tutorial_freeze_attack</string>
 		<key>string_value</key>
-		<string>おっと！特殊攻撃かましたな！\n今のは「寒いギャグ攻撃」だ！\n特殊攻撃は味方も敵も出すぞ！</string>
+		<string>\n今のは「寒いギャグ攻撃」だ！\n特殊攻撃は味方も敵も出すぞ！</string>
 		<key>note</key>
-		<string>初めてfreeze_attack</string>
+		<string>freeze_attack</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_gachig_not_enought</string>
 		<key>string_value</key>
-		<string>ガチCが不足しています\n購入ボタンでガチＣ購入画面を表示します</string>
+		<string>Cが不足しています\n購入ボタンでガチＣ購入画面を表示します</string>
 		<key>note</key>
-		<string>ガチCが不足メッセージ</string>
+		<string>Cが不足メッセージ</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_ap_not_enough_buy_ramen</string>
 		<key>string_value</key>
-		<string>体力が不足しています\nコンビニでラーメンを購入しますか？\nダチにラーメン缶のリクエストもできます\n体力は９分で１回復します</string>
+		<string>\nコンビニでラーメンを購入しますか？\nダチにラーメン缶のリクエストもできます\n体力は９分で１回復します</string>
 		<key>note</key>
 		<string>APが足りなくてラメンもなくてメッセージ</string>
 	</dict>
@@ -502,129 +502,129 @@
 		<key>string_id</key>
 		<string>japanese_retry_stage</string>
 		<key>string_value</key>
-		<string>このステージをリトライしますか？\n装備しているアイテムはなくなります\nリトライ時に体力を３消費します</string>
+		<string>\n装備しているアイテムはなくなります\nリトライ時に体力を３消費します</string>
 		<key>note</key>
-		<string>ステージをリトライ時のメッセージ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_menu_back_confirm</string>
 		<key>string_value</key>
-		<string>ゲームを終了してマップ画面に戻りますか？\n装備しているアイテムはなくなります</string>
+		<string>\n装備しているアイテムはなくなります</string>
 		<key>note</key>
-		<string>戻るの確認</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_renkei_help</string>
 		<key>string_value</key>
-		<string>『単車の虎』と連携します。\n『単車の虎』の登録名が表示されます。次の連携メリットがあります：\n\n①ダチとラーメン缶のリクエストやプレゼントができます\n②ダチとランキングで競い合えます\n③『単車の虎』で使う限定パーツを取得できます\n※ゲストユーザーの方は『単車の虎』アプリをダウンロードします。</string>
+		<string>\n『単車の虎』の登録名が表示されます。次の連携メリットがあります：\n\n①ダチとラーメン缶のリクエストやプレゼントができます\n②ダチとランキングで競い合えます\n③『単車の虎』で使う限定パーツを取得できます\n※ゲストユーザーの方は『単車の虎』アプリをダウンロードします。</string>
 		<key>note</key>
-		<string>連携の情報</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_network_error</string>
 		<key>string_value</key>
-		<string>通信エラーです\n通信状況をお確かめのうえ、もう一度お試しください</string>
+		<string>\n通信状況をお確かめのうえ、もう一度お試しください</string>
 		<key>note</key>
-		<string>ネットワークがエラー</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_renkei_confirm</string>
 		<key>string_value</key>
-		<string>『単車の虎』との連携を実行します\nゲームは再起動されます</string>
+		<string>\nゲームは再起動されます</string>
 		<key>note</key>
-		<string>連携の確認</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_use_gift_ramen_confirm</string>
 		<key>string_value</key>
-		<string>ラーメン缶を使って体力を全回復しますか？</string>
+		<string></string>
 		<key>note</key>
-		<string>ラメン缶使う確認</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_use_ramen_confirm</string>
 		<key>string_value</key>
-		<string>ラーメンを使って体力を全回復しますか？</string>
+		<string></string>
 		<key>note</key>
-		<string>ラメン使う確認</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_use_ramen_can_confirm</string>
 		<key>string_value</key>
-		<string>ラーメン缶を使って体力を全回復しますか？</string>
+		<string></string>
 		<key>note</key>
-		<string>ラメン缶使う確認</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_exitgame_confirm</string>
 		<key>string_value</key>
-		<string>ゲームを終了しますか？\nステージ途中の場合、ステージの記録は削除されます</string>
+		<string>\nステージ途中の場合、ステージの記録は削除されます</string>
 		<key>note</key>
-		<string>終了の確認</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_change_renkei_stage</string>
 		<key>string_value</key>
-		<string>このアカウントはすでに連携済みです\n新しい端末に連携状態を移行しますか？</string>
+		<string>\n新しい端末に連携状態を移行しますか？</string>
 		<key>note</key>
-		<string>連携したアカウントは現在の連携状態が消すの確認</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_renkei_error</string>
 		<key>string_value</key>
-		<string>『単車の虎』との連携時にエラーが発生しました\nもう一度、連携しますか？</string>
+		<string>\nもう一度、連携しますか？</string>
 		<key>note</key>
-		<string>連携時のエラー</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_renkei_device_id_false</string>
 		<key>string_value</key>
-		<string>『単車の虎』のユーザーＩＤが見つかりませんでした</string>
+		<string></string>
 		<key>note</key>
-		<string>連携する時デバイスIDがエラー</string>
+		<string>IDがエラー</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_response_code_invaild</string>
 		<key>string_value</key>
-		<string>通信エラーです\n通信環境をお確かめのうえ、もう一度お試しください</string>
+		<string>\n通信環境をお確かめのうえ、もう一度お試しください</string>
 		<key>note</key>
-		<string>サーバからコードが間違いました</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_send_data_error</string>
 		<key>string_value</key>
-		<string>通信エラーです\n通信環境をお確かめのうえ、もう一度お試しください</string>
+		<string>\n通信環境をお確かめのうえ、もう一度お試しください</string>
 		<key>note</key>
-		<string>サーバへデータが送信できませんでした。</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_buy_item_error</string>
 		<key>string_value</key>
-		<string>アイテムが買えませんでした\nもう一度、購入しますか？</string>
+		<string>\nもう一度、購入しますか？</string>
 		<key>note</key>
-		<string>買う時エラーが発生した</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_cannot_use_item</string>
 		<key>string_value</key>
-		<string>アイテムが使えませんでした\nもう一度、使用しますか？</string>
+		<string>\nもう一度、使用しますか？</string>
 		<key>note</key>
-		<string>アイテムが使えなく</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -678,113 +678,113 @@
 		<key>string_id</key>
 		<string>japanese_missing_file</string>
 		<key>string_value</key>
-		<string>ゲームに必要なデータが不足しています\nゲームを再起動してください</string>
+		<string>\nゲームを再起動してください</string>
 		<key>note</key>
-		<string>ファイルが足りなかった</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_game_resource_update</string>
 		<key>string_value</key>
-		<string>ゲームのアップデートがあります\nアップデート終了まで少々お待ちください</string>
+		<string>\nアップデート終了まで少々お待ちください</string>
 		<key>note</key>
-		<string>アップデートがあります</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_upgrade_error</string>
 		<key>string_value</key>
-		<string>アップグレードできませんでした！</string>
+		<string></string>
 		<key>note</key>
-		<string>アップグレードのエラー</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_user_id_error</string>
 		<key>string_value</key>
-		<string>がエラーです\n運営会社へ連絡してください</string>
+		<string>\n運営会社へ連絡してください</string>
 		<key>note</key>
-		<string>登録するときエラー</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_need_renkei</string>
 		<key>string_value</key>
-		<string>『単車の虎』との連携が必要です</string>
+		<string></string>
 		<key>note</key>
-		<string>連携が必要の機能</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_friend_existed</string>
 		<key>string_value</key>
-		<string>この相手はすでにガチダチになっています</string>
+		<string></string>
 		<key>note</key>
-		<string>ダチになえません</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_full_friend</string>
 		<key>string_value</key>
-		<string>ガチダチがいっぱいです\nだれか一人を削除しますか？</string>
+		<string>\nだれか一人を削除しますか？</string>
 		<key>note</key>
-		<string>ガチダチいっぱい</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_remove_friend_confirm</string>
 		<key>string_value</key>
-		<string>このガチダチを削除しますか？</string>
+		<string></string>
 		<key>note</key>
-		<string>ガチダチを削除の確認</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_share_app_ajito</string>
 		<key>string_value</key>
-		<string>命散らすぜヤンキー魂！過激プレーがアツいヤンキー系バトルゲーム！『単虎外伝ガチンコの虎』。招待ＩＤでバトル楽勝アイテムゲットだ！ 招待ＩＤ：</string>
+		<string></string>
 		<key>note</key>
-		<string>アジトでshare</string>
+		<string>share</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_search_friend_confirm</string>
 		<key>string_value</key>
-		<string>この相手に助太刀してもらいますか？</string>
+		<string></string>
 		<key>note</key>
-		<string>探したユーザを呼ぶ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_make_friend_confirm</string>
 		<key>string_value</key>
-		<string>この相手をガチダチにしますか？</string>
+		<string></string>
 		<key>note</key>
-		<string>ダチにする</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_call_friend_confirm</string>
 		<key>string_value</key>
-		<string>この相手を喧嘩に呼び出しますか？</string>
+		<string></string>
 		<key>note</key>
-		<string>ダチを呼ぶ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_selected_unit_not_usable</string>
 		<key>string_value</key>
-		<string>呼び出せるメンバーがいません\nロックされていないメンバーを選んでください</string>
+		<string>\nロックされていないメンバーを選んでください</string>
 		<key>note</key>
-		<string>アップグレード画面で選んだユニットの中に呼び出せるキャラクターがいません</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_selected_unit_empty</string>
 		<key>string_value</key>
-		<string>出撃メンバーが一人も選ばれていません\nメンバーは６人まで選べます</string>
+		<string>\nメンバーは６人まで選べます</string>
 		<key>note</key>
-		<string>アップグレード画面でキャラクターが選ばれていません</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -792,149 +792,149 @@
 		<key>string_value</key>
 		<string>#不要</string>
 		<key>note</key>
-		<string>アジト画面の下部画像テキスト</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_gachifriend_list_empty</string>
 		<key>string_value</key>
-		<string>登録されているガチダチがいません</string>
+		<string></string>
 		<key>note</key>
-		<string>ガチダチがいません</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_share_app_ajito1</string>
 		<key>string_value</key>
-		<string>命散らすぜヤンキー魂！過激プレーがアツいヤンキー系バトルゲーム！『単虎外伝ガチンコの虎』。招待ＩＤでバトル楽勝アイテムゲットだ！ 招待ＩＤ：</string>
+		<string></string>
 		<key>note</key>
-		<string>アジトでshareのはじめ</string>
+		<string>shareのはじめ</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_share_app_ajito2</string>
 		<key>string_value</key>
-		<string>です！</string>
+		<string></string>
 		<key>note</key>
-		<string>アジトでshareの終わり</string>
+		<string>shareの終わり</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_invited_id_existed1</string>
 		<key>string_value</key>
-		<string>有効な招待ＩＤです\n</string>
+		<string>\n</string>
 		<key>note</key>
-		<string>もらったインバイトIDが存在するメッセージのはじめ</string>
+		<string>IDが存在するメッセージのはじめ</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_invited_id_existed2</string>
 		<key>string_value</key>
-		<string>個を\nプレゼント！</string>
+		<string>\nプレゼント！</string>
 		<key>note</key>
-		<string>もらったインバイトIDが存在するメッセージの終わり</string>
+		<string>IDが存在するメッセージの終わり</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_input_invite_id_mess</string>
 		<key>string_value</key>
-		<string>招待ＩＤを入力してください\n事前登録の方は特典ＩＤを入力してください\n〈ＯＫ〉ボタンでスキップしてゲーム開始します</string>
+		<string>\n事前登録の方は特典ＩＤを入力してください\n〈ＯＫ〉ボタンでスキップしてゲーム開始します</string>
 		<key>note</key>
-		<string>インバイトIDを入力のメッセージ</string>
+		<string>IDを入力のメッセージ</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_invaild_invite_id</string>
 		<key>string_value</key>
-		<string>有効なＩＤではありません\nもう一度招待ＩＤを入力しますか？</string>
+		<string>\nもう一度招待ＩＤを入力しますか？</string>
 		<key>note</key>
-		<string>無効なID入力した後</string>
+		<string>ID入力した後</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_input_gift_request_message</string>
 		<key>string_value</key>
-		<string>メッセージは全角で１７文字まで\n選んだ相手に同じメッセージが送信されます</string>
+		<string>\n選んだ相手に同じメッセージが送信されます</string>
 		<key>note</key>
-		<string>プレゼント、リクエスト 共にメッセージ編集の注意</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_not_enough_gift</string>
 		<key>string_value</key>
-		<string>残りのラーメン缶がありません\nラーメン缶は毎日１０個取得できます</string>
+		<string>\nラーメン缶は毎日１０個取得できます</string>
 		<key>note</key>
-		<string>残りラメン缶が足らない</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_not_enough_request</string>
 		<key>string_value</key>
-		<string>これ以上リクエストできません\nリクエストは１日１０回までです</string>
+		<string>\nリクエストは１日１０回までです</string>
 		<key>note</key>
-		<string>残りラメンリクエストが足らない</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_inbox_gift_empty</string>
 		<key>string_value</key>
-		<string>現在、プレゼントはありません\nプレゼントは相手が贈ってから２４時間でなくなります</string>
+		<string>\nプレゼントは相手が贈ってから２４時間でなくなります</string>
 		<key>note</key>
-		<string>もらったギフトがありません</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_inbox_request_gift_empty</string>
 		<key>string_value</key>
-		<string>現在、リクエストはありません\nリクエストは７日間表示されます</string>
+		<string>\nリクエストは７日間表示されます</string>
 		<key>note</key>
-		<string>ギフトのリクエストがありません</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_default_gift_message</string>
 		<key>string_value</key>
-		<string>ラーメン缶をプレゼントします！</string>
+		<string></string>
 		<key>note</key>
-		<string>規定文プレゼント</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_default_request_message</string>
 		<key>string_value</key>
-		<string>ラーメン缶をリクエストします！</string>
+		<string></string>
 		<key>note</key>
-		<string>規定文リクエスト</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_receive_gift_message</string>
 		<key>string_value</key>
-		<string>おい！聞いてるか！ダチからラーメン缶もらったぜ！</string>
+		<string></string>
 		<key>note</key>
-		<string>ダチからアイテムをもらいます</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_request_gift_message</string>
 		<key>string_value</key>
-		<string>おい！起きてるか！ダチがラーメン缶求めてるぜ！</string>
+		<string></string>
 		<key>note</key>
-		<string>アイテムリクエストをおくります</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_next_first_day_bonus_alert</string>
 		<key>string_value</key>
-		<string>明日は、アイテムドロップ率倍増！ガンガン攻めよ！</string>
+		<string></string>
 		<key>note</key>
-		<string>初日：当日初回起動後3時間後</string>
+		<string>3時間後</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_next_second_day_bonus_alert</string>
 		<key>string_value</key>
-		<string>明日は、経験値が倍増！アップグレードしやすいな！</string>
+		<string></string>
 		<key>note</key>
 		<string>2日目：当日初回起動後3時間後</string>
 	</dict>
@@ -942,49 +942,49 @@
 		<key>string_id</key>
 		<string>japanese_invited_item_message</string>
 		<key>string_value</key>
-		<string>お前のＩＤで登録した奴がいる！プレゼントゲットだな！</string>
+		<string></string>
 		<key>note</key>
-		<string>インバイトIDを入力した後</string>
+		<string>IDを入力した後</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_notification_title</string>
 		<key>string_value</key>
-		<string>ヤンキー系ディフェンス参上！</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーディフェンス通知</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_friend_need_renkei_text</string>
 		<key>string_value</key>
-		<string>単車の虎やフェイスブックと連携すると\n友達がダチリストに表示されます\n※相手が『単虎外伝ガチンコの虎』ユーザーである必要があります</string>
+		<string>\n友達がダチリストに表示されます\n※相手が『単虎外伝ガチンコの虎』ユーザーである必要があります</string>
 		<key>note</key>
-		<string>ダチリストを取るため、連携が必要のテキスト</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_no_friend_text</string>
 		<key>string_value</key>
-		<string>ダチがいません</string>
+		<string></string>
 		<key>note</key>
-		<string>ダチがいません時のテキスト</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_no_achievement</string>
 		<key>string_value</key>
-		<string>現在、達成目標の設定はありません\n次回の達成目標をお楽しみに！</string>
+		<string>\n次回の達成目標をお楽しみに！</string>
 		<key>note</key>
-		<string>アチーブメントがありません</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_unlock_info_postfix</string>
 		<key>string_value</key>
-		<string>で参上！</string>
+		<string></string>
 		<key>note</key>
-		<string>ロック中のテキスト</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -992,15 +992,15 @@
 		<key>string_value</key>
 		<string>PUNCH</string>
 		<key>note</key>
-		<string>ヤンキー1の名前</string>
+		<string>1の名前</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_02_name</string>
 		<key>string_value</key>
-		<string>苦羅宇怒</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキー2の名前</string>
+		<string>2の名前</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1008,23 +1008,23 @@
 		<key>string_value</key>
 		<string>Eat-Boy</string>
 		<key>note</key>
-		<string>ヤンキー3の名前</string>
+		<string>3の名前</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_04_name</string>
 		<key>string_value</key>
-		<string>極★青龍</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキー4の名前</string>
+		<string>4の名前</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_05_name</string>
 		<key>string_value</key>
-		<string>倶利夢尊</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキー5の名前</string>
+		<string>5の名前</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1032,39 +1032,39 @@
 		<key>string_value</key>
 		<string>HitMan</string>
 		<key>note</key>
-		<string>ヤンキー6の名前</string>
+		<string>6の名前</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_07_name</string>
 		<key>string_value</key>
-		<string>獣珍</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキー7の名前</string>
+		<string>7の名前</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_100_name</string>
 		<key>string_value</key>
-		<string>特攻ボッチ</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキー100の名前</string>
+		<string>100の名前</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_200_name</string>
 		<key>string_value</key>
-		<string>戯亞那</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキー200の名前</string>
+		<string>200の名前</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_300_name</string>
 		<key>string_value</key>
-		<string>龍神丸</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキー300の名前</string>
+		<string>300の名前</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1072,23 +1072,23 @@
 		<key>string_value</key>
 		<string>LADY邪邪</string>
 		<key>note</key>
-		<string>ヤンキー400の名前</string>
+		<string>400の名前</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_500_name</string>
 		<key>string_value</key>
-		<string>ヤンキー500</string>
+		<string>500</string>
 		<key>note</key>
-		<string>ヤンキー500の名前</string>
+		<string>500の名前</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_600_name</string>
 		<key>string_value</key>
-		<string>駈乱氣</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキー600の名前</string>
+		<string>600の名前</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1096,7 +1096,7 @@
 		<key>string_value</key>
 		<string>Charry～4</string>
 		<key>note</key>
-		<string>ヤンキー700の名前</string>
+		<string>700の名前</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1104,7 +1104,7 @@
 		<key>string_value</key>
 		<string>(パンチ)</string>
 		<key>note</key>
-		<string>ヤンキー1の読み</string>
+		<string>1の読み</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1112,7 +1112,7 @@
 		<key>string_value</key>
 		<string>(クラウド)</string>
 		<key>note</key>
-		<string>ヤンキー2の読み</string>
+		<string>2の読み</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1120,7 +1120,7 @@
 		<key>string_value</key>
 		<string>(イートボーイ)</string>
 		<key>note</key>
-		<string>ヤンキー3の読み</string>
+		<string>3の読み</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1128,7 +1128,7 @@
 		<key>string_value</key>
 		<string>(ゴクボシセイリュウ)</string>
 		<key>note</key>
-		<string>ヤンキー4の読み</string>
+		<string>4の読み</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1136,7 +1136,7 @@
 		<key>string_value</key>
 		<string>(クリムゾン)</string>
 		<key>note</key>
-		<string>ヤンキー5の読み</string>
+		<string>5の読み</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1144,7 +1144,7 @@
 		<key>string_value</key>
 		<string>(ヒットマン)</string>
 		<key>note</key>
-		<string>ヤンキー6の読み</string>
+		<string>6の読み</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1152,7 +1152,7 @@
 		<key>string_value</key>
 		<string>(ジュウチン)</string>
 		<key>note</key>
-		<string>ヤンキー7の読み</string>
+		<string>7の読み</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1160,7 +1160,7 @@
 		<key>string_value</key>
 		<string>(トッコウボッチ)</string>
 		<key>note</key>
-		<string>ヤンキー100の読み</string>
+		<string>100の読み</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1168,7 +1168,7 @@
 		<key>string_value</key>
 		<string>(ギアナ)</string>
 		<key>note</key>
-		<string>ヤンキー200の読み</string>
+		<string>200の読み</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1176,7 +1176,7 @@
 		<key>string_value</key>
 		<string>(リュウジンマル)</string>
 		<key>note</key>
-		<string>ヤンキー300の読み</string>
+		<string>300の読み</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1184,15 +1184,15 @@
 		<key>string_value</key>
 		<string>(レディジャジャ)</string>
 		<key>note</key>
-		<string>ヤンキー400の読み</string>
+		<string>400の読み</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_500_yomi</string>
 		<key>string_value</key>
-		<string>ヤンキー500の名前</string>
+		<string>500の名前</string>
 		<key>note</key>
-		<string>ヤンキー500の読み</string>
+		<string>500の読み</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1200,7 +1200,7 @@
 		<key>string_value</key>
 		<string>(クランケ)</string>
 		<key>note</key>
-		<string>ヤンキー600の読み</string>
+		<string>600の読み</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1208,157 +1208,157 @@
 		<key>string_value</key>
 		<string>(チャリ～4)</string>
 		<key>note</key>
-		<string>ヤンキー700の読み</string>
+		<string>700の読み</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_01_info</string>
 		<key>string_value</key>
-		<string>呼べばぶっ飛んで来る血の気の多さはヤンキー界随一。\n持ち前の侠気発揮して喧嘩の最前線に出張るのが得意。</string>
+		<string>\n持ち前の侠気発揮して喧嘩の最前線に出張るのが得意。</string>
 		<key>note</key>
-		<string>ヤンキー1の情報</string>
+		<string>1の情報</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_02_info</string>
 		<key>string_value</key>
-		<string>ヒーロー気取って快刀乱麻のエクスカリバーぶん回す。\nやや距離を置きつつ敵の急所にズバッと斬りこむ。</string>
+		<string>\nやや距離を置きつつ敵の急所にズバッと斬りこむ。</string>
 		<key>note</key>
-		<string>ヤンキー2の情報</string>
+		<string>2の情報</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_03_info</string>
 		<key>string_value</key>
-		<string>牛丼３０杯は平らげるボディゆえに遅いが遠投攻撃が得意。\n後衛に陣取り、敵陣めがけて投げて投げて投げまくる！</string>
+		<string>\n後衛に陣取り、敵陣めがけて投げて投げて投げまくる！</string>
 		<key>note</key>
-		<string>ヤンキー3の情報</string>
+		<string>3の情報</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_04_info</string>
 		<key>string_value</key>
-		<string>本場仕込みの超絶テクでキメるヌンチャク攻撃が自慢。\n鍛えぬいた身体能力を活かして最前線までスピード移動。</string>
+		<string>\n鍛えぬいた身体能力を活かして最前線までスピード移動。</string>
 		<key>note</key>
-		<string>ヤンキー4の情報</string>
+		<string>4の情報</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_05_info</string>
 		<key>string_value</key>
-		<string>気の強さと高ピーさは右に出るものがいない姉御系。\n容赦の無いチェーン攻撃で心的外傷まで生じさせる。</string>
+		<string>\n容赦の無いチェーン攻撃で心的外傷まで生じさせる。</string>
 		<key>note</key>
-		<string>ヤンキー5の情報</string>
+		<string>5の情報</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_06_info</string>
 		<key>string_value</key>
-		<string>下手にイキがることのない沈着冷静さがむしろ不気味。\nぶっ飛ばすの思いを込めた強烈な一撃が取り柄だ。</string>
+		<string>\nぶっ飛ばすの思いを込めた強烈な一撃が取り柄だ。</string>
 		<key>note</key>
-		<string>ヤンキー6の情報</string>
+		<string>6の情報</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_07_info</string>
 		<key>string_value</key>
-		<string>ヤンキー界の重鎮にして永遠のボスキャラクター。\n任侠精神で味方ヤンキーが倒されると超絶攻撃を発揮。</string>
+		<string>\n任侠精神で味方ヤンキーが倒されると超絶攻撃を発揮。</string>
 		<key>note</key>
-		<string>ヤンキー7の情報</string>
+		<string>7の情報</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_100_info</string>
 		<key>string_value</key>
-		<string>原チャリっ子魂で最前線までぶっ込んでいく特攻系。\n弾ける怒りを額に貯めこみ玉砕覚悟で敵陣に突入だ！</string>
+		<string>\n弾ける怒りを額に貯めこみ玉砕覚悟で敵陣に突入だ！</string>
 		<key>note</key>
-		<string>ヤンキー100の情報</string>
+		<string>100の情報</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_200_info</string>
 		<key>string_value</key>
-		<string>超巨大なヘアが自慢だがすでにヤンキーを逸脱している。\nヘアー上の出来事を認識していないがパワーは最凶だ。</string>
+		<string>\nヘアー上の出来事を認識していないがパワーは最凶だ。</string>
 		<key>note</key>
-		<string>ヤンキー200の情報</string>
+		<string>200の情報</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_300_info</string>
 		<key>string_value</key>
-		<string>トラック好きが高じてついにトラックと同体化した。\nメタルな筋肉で全身を包みHPは仲間うちで随一を誇る。</string>
+		<string>\nメタルな筋肉で全身を包みHPは仲間うちで随一を誇る。</string>
 		<key>note</key>
-		<string>ヤンキー300の情報</string>
+		<string>300の情報</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_400_info</string>
 		<key>string_value</key>
-		<string>脳天気なキャラで引き金を振り絞るトリガーハッピー。\n遠距離からプロ顔負けの構えでBB弾をひたすら連射する。</string>
+		<string>\n遠距離からプロ顔負けの構えでBB弾をひたすら連射する。</string>
 		<key>note</key>
-		<string>ヤンキー400の情報</string>
+		<string>400の情報</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_500_info</string>
 		<key>string_value</key>
-		<string>情報500</string>
+		<string>500</string>
 		<key>note</key>
-		<string>ヤンキー500の情報</string>
+		<string>500の情報</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_600_info</string>
 		<key>string_value</key>
-		<string>事故自慢の中でもとりわけ目を引く重体危篤系キャラ。\n松葉杖に仕込む大型50口径のライフルで敵を瞬殺する。</string>
+		<string>\n松葉杖に仕込む大型50口径のライフルで敵を瞬殺する。</string>
 		<key>note</key>
-		<string>ヤンキー600の情報</string>
+		<string>600の情報</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_character_yp_700_info</string>
 		<key>string_value</key>
-		<string>もはや都市伝説の域にある４人組がガチでやって来た。\n軽い身のこなしで最前線までぶっ込んでタメ攻撃した。</string>
+		<string>\n軽い身のこなしで最前線までぶっ込んでタメ攻撃した。</string>
 		<key>note</key>
-		<string>ヤンキー700の情報</string>
+		<string>700の情報</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_ajito_below_message</string>
 		<key>string_value</key>
-		<string>ダチリストからプレゼントやリクエストができます。ランキングも確認できます。</string>
+		<string></string>
 		<key>note</key>
-		<string>アジトの下のメッセージ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_easy_text</string>
 		<key>string_value</key>
-		<string>楽勝モード</string>
+		<string></string>
 		<key>note</key>
-		<string>イージ難易度</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_normal_text</string>
 		<key>string_value</key>
-		<string>ガチモード</string>
+		<string></string>
 		<key>note</key>
-		<string>ノルマル難易度</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_hard_text</string>
 		<key>string_value</key>
-		<string>激ヤバモード</string>
+		<string></string>
 		<key>note</key>
-		<string>ハード難易度</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_facebook_renkei_confirm</string>
 		<key>string_value</key>
-		<string>フェイスブックと連携します。\nフェイスブックの登録名とプロフィール画像が表示されます。\n次の連携メリットがあります：\n\n①ダチとラーメン缶のリクエストやプレゼントができます\n②ダチとランキングで競い合えます\n※フェイスブックより『単車の虎』の登録名が優先されます。</string>
+		<string>\nフェイスブックの登録名とプロフィール画像が表示されます。\n次の連携メリットがあります：\n\n①ダチとラーメン缶のリクエストやプレゼントができます\n②ダチとランキングで競い合えます\n※フェイスブックより『単車の虎』の登録名が優先されます。</string>
 		<key>note</key>
 		<string>facebookと連携の確認</string>
 	</dict>
@@ -1366,25 +1366,25 @@
 		<key>string_id</key>
 		<string>japanese_facebook_renkei_modify_confirm</string>
 		<key>string_value</key>
-		<string>このフェイスブックアカウントは他の端末に連携しています\nこの端末で連携すると他の端末の連携は無効になります\nフェイスブックと連携しますか？</string>
+		<string>\nこの端末で連携すると他の端末の連携は無効になります\nフェイスブックと連携しますか？</string>
 		<key>note</key>
-		<string>一つのfacebookアカウントは１つ以上のガチアカウントを連携できないの確認</string>
+		<string>facebookアカウントは１つ以上のガチアカウントを連携できないの確認</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_download_mapdata_message</string>
 		<key>string_value</key>
-		<string>マップデータを\nダウンロード中です...</string>
+		<string>\nダウンロード中です...</string>
 		<key>note</key>
-		<string>マップデータをダウンロード時のメッセージ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_empty_friend_ranking_message</string>
 		<key>string_value</key>
-		<string>現在集計中です\nランキングは経験値で求めます</string>
+		<string>\nランキングは経験値で求めます</string>
 		<key>note</key>
-		<string>ダチのランキング情報がない時のメッセージ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1398,7 +1398,7 @@
 		<key>string_id</key>
 		<string>japanese_open_external_app_error</string>
 		<key>string_value</key>
-		<string>アプリケーションが見つかりません</string>
+		<string></string>
 		<key>note</key>
 		<string>LINEなどのアプリが見つからないのメッセージ</string>
 	</dict>
@@ -1406,17 +1406,17 @@
 		<key>string_id</key>
 		<string>japanese_inapp_billing_error</string>
 		<key>string_value</key>
-		<string>アプリ内課金できませんでした</string>
+		<string></string>
 		<key>note</key>
-		<string>アプリ内課金をする時、エラー発生しました。</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_achievement_result_content</string>
 		<key>string_value</key>
-		<string>『単車の虎』のマイページで受け取れます</string>
+		<string></string>
 		<key>note</key>
-		<string>達成もらうレヤーのメッセージ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1424,7 +1424,7 @@
 		<key>string_value</key>
 		<string></string>
 		<key>note</key>
-		<string>達成もらうレヤーのKillNumberのはじめ</string>
+		<string>KillNumberのはじめ</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1432,7 +1432,7 @@
 		<key>string_value</key>
 		<string></string>
 		<key>note</key>
-		<string>達成もらうレヤーのKillNumberのおわり</string>
+		<string>KillNumberのおわり</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1440,7 +1440,7 @@
 		<key>string_value</key>
 		<string></string>
 		<key>note</key>
-		<string>達成もらうレヤーのパーツのはじめ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
@@ -1448,37 +1448,37 @@
 		<key>string_value</key>
 		<string></string>
 		<key>note</key>
-		<string>達成もらうレヤーのパーツのおわり</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_achievement_get_patsu_need_renkei</string>
 		<key>string_value</key>
-		<string>賞品を受け取るために、『単車の虎』との連携が必要です\n今すぐ連携しますか？</string>
+		<string>\n今すぐ連携しますか？</string>
 		<key>note</key>
-		<string>パーツを受け取る時、連携が必要なメッセージ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_achievement_no_prize_message</string>
 		<key>string_value</key>
-		<string>受け取っていない達成目標賞品はありません\n受け取れる賞品があるとき、この画面で「受取」ボタンを押すと\n『単車の虎』アプリで受け取ることができます</string>
+		<string>\n受け取れる賞品があるとき、この画面で「受取」ボタンを押すと\n『単車の虎』アプリで受け取ることができます</string>
 		<key>note</key>
-		<string>達成パーツがないメッセージ</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_item_limited_99</string>
 		<key>string_value</key>
-		<string>アイテムは９９個以上持てません</string>
+		<string></string>
 		<key>note</key>
-		<string>所持数が99個を超す場合</string>
+		<string>99個を超す場合</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_request_gift_fb_confirm</string>
 		<key>string_value</key>
-		<string>ダチにラーメン缶をリクエストしました\n相手側のフェイスブックに通知しますか？</string>
+		<string>\n相手側のフェイスブックに通知しますか？</string>
 		<key>note</key>
 		<string>FBの通知の確認</string>
 	</dict>
@@ -1486,7 +1486,7 @@
 		<key>string_id</key>
 		<string>japanese_send_gift_fb_confirm</string>
 		<key>string_value</key>
-		<string>ダチにラーメン缶をプレゼントしました\n相手側のフェイスブックに通知しますか？</string>
+		<string>\n相手側のフェイスブックに通知しますか？</string>
 		<key>note</key>
 		<string>FBの通知の確認</string>
 	</dict>
@@ -1494,191 +1494,191 @@
 		<key>string_id</key>
 		<string>japanese_gift_same_friend</string>
 		<key>string_value</key>
-		<string>同じ相手へのプレゼントは\n１日１回です</string>
+		<string>\n１日１回です</string>
 		<key>note</key>
-		<string>同じ相手へのプレゼントは１日１回です</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_request_same_friend</string>
 		<key>string_value</key>
-		<string>同じ相手へのリクエストは\n１日１回です</string>
+		<string>\n１日１回です</string>
 		<key>note</key>
-		<string>同じ相手へのリクエストは１日１回です</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_server_maintaining_message</string>
 		<key>string_value</key>
-		<string>サーバメンテナンス中です\nメンテナンス終了までしばらくお待ちください</string>
+		<string>\nメンテナンス終了までしばらくお待ちください</string>
 		<key>note</key>
-		<string>サーバメンテナンス中</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_shop_item_detail_ai_01</string>
 		<key>string_value</key>
-		<string>体力を全回復します</string>
+		<string></string>
 		<key>note</key>
-		<string>コンビニアイテムの説明</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_shop_item_detail_ai_01_02</string>
 		<key>string_value</key>
-		<string>体力を全回復します</string>
+		<string></string>
 		<key>note</key>
-		<string>コンビニアイテムの説明</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_shop_item_detail_si_22</string>
 		<key>string_value</key>
-		<string>ドロップアイテムの有効時間を\n２０秒に伸ばします\nステージ中は有効です</string>
+		<string>\n２０秒に伸ばします\nステージ中は有効です</string>
 		<key>note</key>
-		<string>コンビニアイテムの説明</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_shop_item_detail_si_23</string>
 		<key>string_value</key>
-		<string>ドロップアイテムの有効時間を\n３０秒に伸ばします\nステージ中は有効です</string>
+		<string>\n３０秒に伸ばします\nステージ中は有効です</string>
 		<key>note</key>
-		<string>コンビニアイテムの説明</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_shop_item_detail_si_24</string>
 		<key>string_value</key>
-		<string>ドロップアイテムの有効時間を\n５０秒に伸ばします\nステージ中は有効です</string>
+		<string>\n５０秒に伸ばします\nステージ中は有効です</string>
 		<key>note</key>
-		<string>コンビニアイテムの説明</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_shop_item_title_ai_01</string>
 		<key>string_value</key>
-		<string>ラーメン</string>
+		<string></string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_shop_item_title_ai_01_02</string>
 		<key>string_value</key>
-		<string>ラーメン３個</string>
+		<string></string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_shop_item_title_si_22</string>
 		<key>string_value</key>
-		<string>お守り〈極悪非道〉</string>
+		<string></string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_shop_item_title_si_23</string>
 		<key>string_value</key>
-		<string>お守り〈天下無敵〉</string>
+		<string></string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_shop_item_title_si_24</string>
 		<key>string_value</key>
-		<string>お守り〈唯我独尊〉</string>
+		<string></string>
 		<key>note</key>
-		<string>コンビニアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_drop_item_name_di_01</string>
 		<key>string_value</key>
-		<string>凶撃玉</string>
+		<string></string>
 		<key>note</key>
-		<string>ドロッピアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_drop_item_name_di_02</string>
 		<key>string_value</key>
-		<string>狂防玉</string>
+		<string></string>
 		<key>note</key>
-		<string>ドロップアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_drop_item_name_di_03</string>
 		<key>string_value</key>
-		<string>爆速玉</string>
+		<string></string>
 		<key>note</key>
-		<string>ドロップアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_drop_item_name_di_04</string>
 		<key>string_value</key>
-		<string>撃速玉</string>
+		<string></string>
 		<key>note</key>
-		<string>ドロッピアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_drop_item_name_di_05</string>
 		<key>string_value</key>
-		<string>防速玉</string>
+		<string></string>
 		<key>note</key>
-		<string>ドロップアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_drop_item_name_di_06</string>
 		<key>string_value</key>
-		<string>撃防玉</string>
+		<string></string>
 		<key>note</key>
-		<string>ドロップアイテム</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_share_sns_bonus_mess</string>
 		<key>string_value</key>
-		<string>ＳＮＳ拡散で１００ガチGゲット（1日1回までです）</string>
+		<string>Gゲット（1日1回までです）</string>
 		<key>note</key>
-		<string>プレゼントに言及して</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_yoyaku_top10_present</string>
 		<key>string_value</key>
-		<string>事前登録いただきありがとうございます！！\n通常プレゼントの他に『単車の虎』で使える限定パーツ\n限定パーツ「ガチトラ旗棒」をプレゼント！\n画面左下のバナーをタップしてください</string>
+		<string>\n通常プレゼントの他に『単車の虎』で使える限定パーツ\n限定パーツ「ガチトラ旗棒」をプレゼント！\n画面左下のバナーをタップしてください</string>
 		<key>note</key>
-		<string>事前登録者向けに有効なIDを知らせるメッセージ</string>
+		<string>IDを知らせるメッセージ</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_bonus_yoyakuset</string>
 		<key>string_value</key>
-		<string>特典ＩＤとして有効なＩＤです\n\n〈極悪非道〉1個、〈天下無敵〉1個\n〈唯我独尊〉1個とラーメン1個をプレゼントします！！</string>
+		<string>\n\n〈極悪非道〉1個、〈天下無敵〉1個\n〈唯我独尊〉1個とラーメン1個をプレゼントします！！</string>
 		<key>note</key>
-		<string>有効な予約IDのボナス</string>
+		<string>IDのボナス</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_tantora_error</string>
 		<key>string_value</key>
-		<string>『単車の虎』サーバーが応答していません\nのちほど改めてダチリストを開くと\n再度、ダチリストを取得します\nフェイスブックの友達応報のみ表示します</string>
+		<string>\nのちほど改めてダチリストを開くと\n再度、ダチリストを取得します\nフェイスブックの友達応報のみ表示します</string>
 		<key>note</key>
-		<string>単虎サーバが停止している時</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_fb_error</string>
 		<key>string_value</key>
-		<string>フェイスブックサーバーが応答していません\nのちほど改めてダチリストを開くと\n再度、ダチリストを取得します\n『単車の虎』の友達情報のみ表示します</string>
+		<string>\nのちほど改めてダチリストを開くと\n再度、ダチリストを取得します\n『単車の虎』の友達情報のみ表示します</string>
 		<key>note</key>
 		<string>FBサーバが停止している時</string>
 	</dict>
@@ -1686,217 +1686,217 @@
 		<key>string_id</key>
 		<string>japanese_tantora_fb_error</string>
 		<key>string_value</key>
-		<string>『単車の虎』とフェイスブックサーバーが応答していません\nのちほど改めてダチリストを開くと\n再度、ダチリストを取得します</string>
+		<string>\nのちほど改めてダチリストを開くと\n再度、ダチリストを取得します</string>
 		<key>note</key>
-		<string>単虎とFBサーバが停止している時</string>
+		<string>FBサーバが停止している時</string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_01</string>
 		<key>string_value</key>
-		<string>パンチヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_02</string>
 		<key>string_value</key>
-		<string>モップヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_03</string>
 		<key>string_value</key>
-		<string>肩車ヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_04</string>
 		<key>string_value</key>
-		<string>キックヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_05</string>
 		<key>string_value</key>
-		<string>イケメンヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_06</string>
 		<key>string_value</key>
-		<string>ホッピングヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_07</string>
 		<key>string_value</key>
-		<string>うさぎ跳びヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_08</string>
 		<key>string_value</key>
-		<string>獅子舞ヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_09</string>
 		<key>string_value</key>
-		<string>チャリヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_10</string>
 		<key>string_value</key>
-		<string>相撲ヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_11</string>
 		<key>string_value</key>
-		<string>陰陽師ヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_12</string>
 		<key>string_value</key>
-		<string>神輿ヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_13</string>
 		<key>string_value</key>
-		<string>陸上ヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_14</string>
 		<key>string_value</key>
-		<string>一輪車ヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_15</string>
 		<key>string_value</key>
-		<string>鉄パイプヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_16</string>
 		<key>string_value</key>
-		<string>陸上ヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_17</string>
 		<key>string_value</key>
-		<string>福男ヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_18</string>
 		<key>string_value</key>
-		<string>戦国ヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_19</string>
 		<key>string_value</key>
-		<string>アニマルヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_20</string>
 		<key>string_value</key>
-		<string>金属バット</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_21</string>
 		<key>string_value</key>
-		<string>陸上ヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_22</string>
 		<key>string_value</key>
-		<string>メカヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_23</string>
 		<key>string_value</key>
-		<string>戦国ヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_24</string>
 		<key>string_value</key>
-		<string>男塾ヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_name_ye_25</string>
 		<key>string_value</key>
-		<string>任侠ヤンキー</string>
+		<string></string>
 		<key>note</key>
-		<string>ヤンキーの名前</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>string_id</key>
 		<string>japanese_bad_word_input</string>
 		<key>string_value</key>
-		<string>不適切な表現が含まれています\n文章を見直してください</string>
+		<string>\n文章を見直してください</string>
 		<key>note</key>
-		<string>メッセージにＮＧワードが含まれている時</string>
+		<string></string>
 	</dict>
 </array>
 </plist>
